@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86eaffa2-2df2-4536-b00e-3a9540b53801" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Katas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Katas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Katas/GreedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Katas/GreedTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Greed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/GreedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GreedTest.java" afterDir="false" />
     </list>
@@ -18,29 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Greed.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Greed.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GreedTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/GreedTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,16 +70,6 @@
               <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
               <item name="Katas" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Katas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Katas" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -154,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GreedTest.score_Three1">
+  <component name="RunManager" selected="JUnit.GreedTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -175,13 +139,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="GreedTest.score_Three1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GreedTest.score_Five6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GreedTest" />
-      <option name="METHOD_NAME" value="score_Three1" />
+      <option name="METHOD_NAME" value="score_Five6" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -192,13 +156,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="GreedTest.score_Three4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GreedTest.score_Six6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GreedTest" />
-      <option name="METHOD_NAME" value="score_Three4" />
+      <option name="METHOD_NAME" value="score_Six6" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -209,13 +173,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="GreedTest.score_Three5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GreedTest.score_Straight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GreedTest" />
-      <option name="METHOD_NAME" value="score_Three5" />
+      <option name="METHOD_NAME" value="score_Straight" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -226,13 +190,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="GreedTest.score_Three6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GreedTest.score_ThreePairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GreedTest" />
-      <option name="METHOD_NAME" value="score_Three6" />
+      <option name="METHOD_NAME" value="score_ThreePairs" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -282,19 +246,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="JUnit.GreedTest.score_Six6" />
+      <item itemvalue="JUnit.GreedTest.score_Five6" />
       <item itemvalue="JUnit.GreedTest" />
-      <item itemvalue="JUnit.GreedTest.score_Three4" />
-      <item itemvalue="JUnit.GreedTest.score_Three5" />
-      <item itemvalue="JUnit.GreedTest.score_Three6" />
-      <item itemvalue="JUnit.GreedTest.score_Three1" />
+      <item itemvalue="JUnit.GreedTest.score_ThreePairs" />
+      <item itemvalue="JUnit.GreedTest.score_Straight" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GreedTest.score_Three1" />
         <item itemvalue="JUnit.GreedTest" />
-        <item itemvalue="JUnit.GreedTest.score_Three6" />
-        <item itemvalue="JUnit.GreedTest.score_Three5" />
-        <item itemvalue="JUnit.GreedTest.score_Three4" />
+        <item itemvalue="JUnit.GreedTest.score_Straight" />
+        <item itemvalue="JUnit.GreedTest.score_ThreePairs" />
+        <item itemvalue="JUnit.GreedTest.score_Five6" />
+        <item itemvalue="JUnit.GreedTest.score_Six6" />
       </list>
     </recent_temporary>
   </component>
@@ -310,48 +274,47 @@
       <updated>1528698415750</updated>
       <workItem from="1528698417167" duration="3294000" />
       <workItem from="1528710416912" duration="1776000" />
-      <workItem from="1529228626998" duration="2156000" />
+      <workItem from="1529228626998" duration="5693000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GreedTest_score_Three4 - 2018.06.17 at 20h 09m 30s.xml">
-      <configuration name="GreedTest.score_Three4" configurationId="JUnit" />
+    <history-entry file="GreedTest_score_Six5 - 2018.06.17 at 21h 16m 55s.xml">
+      <configuration name="GreedTest.score_Six5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedTest_score_Three5 - 2018.06.17 at 20h 11m 52s.xml">
-      <configuration name="GreedTest.score_Three5" configurationId="JUnit" />
+    <history-entry file="GreedTest_score_Five5 - 2018.06.17 at 21h 16m 58s.xml">
+      <configuration name="GreedTest.score_Five5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedTest_score_Three5 - 2018.06.17 at 20h 12m 20s.xml">
-      <configuration name="GreedTest.score_Three5" configurationId="JUnit" />
+    <history-entry file="GreedTest_score_Six6 - 2018.06.17 at 21h 18m 14s.xml">
+      <configuration name="GreedTest.score_Six6" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedTest_score_Three5 - 2018.06.17 at 20h 12m 25s.xml">
-      <configuration name="GreedTest.score_Three5" configurationId="JUnit" />
+    <history-entry file="GreedTest_score_Five6 - 2018.06.17 at 21h 18m 17s.xml">
+      <configuration name="GreedTest.score_Five6" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedTest - 2018.06.17 at 20h 12m 31s.xml">
+    <history-entry file="GreedTest - 2018.06.17 at 21h 18m 25s.xml">
       <configuration name="GreedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedTest_score_Three6 - 2018.06.17 at 20h 15m 17s.xml">
-      <configuration name="GreedTest.score_Three6" configurationId="JUnit" />
+    <history-entry file="GreedTest_score_ThreePairs - 2018.06.17 at 21h 22m 42s.xml">
+      <configuration name="GreedTest.score_ThreePairs" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedTest_score_Three6 - 2018.06.17 at 20h 15m 46s.xml">
-      <configuration name="GreedTest.score_Three6" configurationId="JUnit" />
+    <history-entry file="GreedTest_score_ThreePairs - 2018.06.17 at 21h 27m 40s.xml">
+      <configuration name="GreedTest.score_ThreePairs" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedTest_score_Three6 - 2018.06.17 at 20h 16m 09s.xml">
-      <configuration name="GreedTest.score_Three6" configurationId="JUnit" />
+    <history-entry file="GreedTest_score_Straight - 2018.06.17 at 21h 29m 51s.xml">
+      <configuration name="GreedTest.score_Straight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GreedTest - 2018.06.17 at 20h 16m 16s.xml">
+    <history-entry file="GreedTest_score_Straight - 2018.06.17 at 21h 30m 31s.xml">
+      <configuration name="GreedTest.score_Straight" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GreedTest - 2018.06.17 at 21h 30m 38s.xml">
       <configuration name="GreedTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GreedTest_score_Three1 - 2018.06.17 at 20h 17m 03s.xml">
-      <configuration name="GreedTest.score_Three1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7226000" />
+    <option name="totallyTimeSpent" value="10763000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="1" y="23" width="1440" height="877" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -363,11 +326,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32948717" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32948717" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -392,7 +355,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -429,20 +392,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Greed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="495">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/GreedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        <state relative-caret-position="3480">
+          <caret line="232" column="24" selection-start-line="232" selection-start-column="24" selection-end-line="232" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
