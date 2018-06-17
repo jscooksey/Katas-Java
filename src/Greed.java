@@ -1,7 +1,37 @@
 public class Greed {
 
     public int score(int[] dice) {
-        return(100);
+        int x;
+        int result = 0;
+        int ones = 0;
+        int twos = 0;
+        int threes = 0;
+        int fours = 0;
+        int fives = 0;
+        int sixes = 0;
+
+        int die = dice.length;
+        if(die < 1) return(result);
+
+        for(x=0; x<die; x++) {
+            if(dice[x] == 1) ones++;
+            if(dice[x] == 2) twos++;
+            if(dice[x] == 3) threes++;
+            if(dice[x] == 4) fours++;
+            if(dice[x] == 5) fives++;
+            if(dice[x] == 6) sixes++;
+        }
+
+        if(ones == 1) result += 100;
+        if(fives == 1) result += 50;
+        if(ones == 3) result += 1000;
+        if(twos == 3) result += 200;
+        if(threes == 3) result += 300;
+        if(fours == 3) result += 400;
+        if(fives == 3) result += 500;
+        if(sixes == 3) result += 600;
+
+        return(result);
     }
 
 }
